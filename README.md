@@ -2,4 +2,4 @@
 Demo for creating snow in Hololens
 
 Full tutorial can be found here:
-http://www.avramcatalin.com/uncategorized/hololens-tutorial-let-it-snow/
+http://www.avramcatalin.com/coding/hololens-tutorial-let-it-snow/
